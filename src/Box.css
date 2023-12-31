@@ -1,9 +1,25 @@
+/* TODO use styling library to apply styles to Component */
 .Box {
-    border: 3px solid rgb(0, 0, 0);
+    border: 5px dashed purple;
     border-radius: 5%;
     margin: 25px;
 }
 
 p {
     text-align: center;
+}
+
+button {
+    text-align: center;
+}
+
+div.BoxList {
+    border: 1px dashed black;
+    margin: 5px;
+}
+
+form {
+    border: 1px dashed red;
+    margin: 10px;
+    border-radius: 5%;
 }

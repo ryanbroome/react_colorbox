@@ -23,5 +23,7 @@ const Box = ({ id, style, removeBox }) => {
     </>
   );
 };
+{
+}
 
 export default Box;
